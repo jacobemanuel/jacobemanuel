@@ -6,7 +6,7 @@ XR engineer and researcher in Munich, working across rendering, interaction, 3D 
 
 - **Now:** XR engineer on an automotive Apple Vision Pro application · independent XR developer for client projects · Gaussian Splatting research for Apple Vision Pro at the Technical University of Munich · Head of Strategic Development at TUM-XR, the university's student XR initiative, where I secured €5,000 seed funding for a Gaussian Splatting initiative
 - **Before:** digital product specialist for XR in industrial engineering (2023 to 2025): helped move VR training from streaming to on-device, presented XR solutions at ACHEMA 2024
-- **Education:** M.Sc. Management & Technology, Technical University of Munich (technology track: Computer Engineering), expected 2027 · M.Sc. Management with distinction and B.Sc. Engineering Management, Gdansk University of Technology (Best Master's Thesis 2024)
+- **Education:** M.Sc. Management & Technology, Technical University of Munich (technology specialization: Computer Engineering), expected 2027
 
 ## Selected work
 
