@@ -1,6 +1,6 @@
 # Jakub Majewski
 
-I'm a software developer and researcher in Munich. I like the whole way from an idea to the thing people use, so I build it end to end: XR apps, real-time 3D from engineering CAD, machine learning that knows how sure it is and knowledge tools a team shares with its AI agents. At TUM I research Gaussian Splatting, which turns photos into 3D scenes that render in real time.
+I'm a software engineer in Munich with a background in Management & Technology. I like the whole way from an idea to the thing people use, so I build it end to end: XR apps, real-time 3D from engineering CAD, machine learning that knows how sure it is and knowledge tools a team shares with its AI agents. At TUM I research Gaussian Splatting, which turns photos into 3D scenes that render in real time.
 
 **[majewski.studio](https://majewski.studio)** · [LinkedIn](https://www.linkedin.com/in/majewski-studio) · [contact@majewski.studio](mailto:contact@majewski.studio)
 
