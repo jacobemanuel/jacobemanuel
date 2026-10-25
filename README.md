@@ -23,4 +23,4 @@ I'm a software engineer in Munich with a background in Management & Technology. 
 
 **Tools:** Python, C#, Swift · PyTorch, NumPy, scikit-learn · Unity, PolySpatial, RealityKit, SwiftUI, Metal · Blender, Unity Asset Transformer (formerly Pixyz) · Google Cloud
 
-I study Management & Technology at TUM with Computer Engineering as my technology specialization. I'm also Head of Strategic Development at [TUM-XR](https://tum-xr.com/), the university's student XR initiative, and a Senior Associate at [XR Association Munich e.V.](https://www.linkedin.com/company/xrmunich/)
+I study Management & Technology at TUM with Computer Engineering as my technology specialization. Before TUM I earned an M.Sc. in Management at Gdańsk University of Technology, with the faculty's award for the best master's thesis of 2024. I'm also Head of Strategic Development at [TUM-XR](https://tum-xr.com/), the university's student XR initiative, and a Senior Associate at [XR Association Munich e.V.](https://www.linkedin.com/company/xrmunich/)
