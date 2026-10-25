@@ -1,19 +1,26 @@
-# Hi, I'm Jakub
+# Jakub Majewski
 
-I'm a software developer in Munich. Most of my work so far has been in XR, lately on Apple Vision Pro: an automotive app at work, a 3D scan viewer for a client and research on Gaussian Splatting at TUM. Alongside XR, I work on machine learning and data analysis.
+I'm a software developer and researcher in Munich. I like the whole way from an idea to the thing people use, so I build it end to end: XR apps, real-time 3D from engineering CAD, machine learning that knows how sure it is and knowledge tools a team shares with its AI agents. At TUM I research Gaussian Splatting, which turns photos into 3D scenes that render in real time.
 
-I study Management & Technology at TUM, with Computer Engineering as my technology specialization. I'm also Head of Strategic Development at TUM-XR, the university's student XR initiative, and a Senior Associate at [XR Association Munich e.V.](https://www.linkedin.com/company/xrmunich/).
+**[majewski.studio](https://majewski.studio)** · [LinkedIn](https://www.linkedin.com/in/majewski-studio) · [contact@majewski.studio](mailto:contact@majewski.studio)
 
 ## Selected work
 
-- **[Gaussian Splatting on Apple Vision Pro](https://github.com/jacobemanuel/gaussian-splatting-vision-pro)**: a controlled study from 3D model to splat to headset, with 470 trained models, 195 measurement windows on the device and every number reproducible from the raw records
-- **[receptionOS Visualizer](https://github.com/jacobemanuel/receptionos-visualizer-portfolio)**: an Apple Vision Pro app for aligned 3D scan inspection and measurement, built from proof of concept to client release
-- **[Automotive XR on Apple Vision Pro](https://github.com/jacobemanuel/automotive-spatial-visualization-portfolio)**: an in-house app for full-scale vehicle reviews; my work covers stereo mirrors, transparent-pass ordering, HUD clipping, hand-tracked input and visionOS release engineering
-- **[Automotive content pipeline](https://github.com/jacobemanuel/automotive-content-pipeline-portfolio)**: engineering CAD turned into real-time content, with geometry processing, collision proxies, Blender tooling and a validating exporter
-- **[LEKS](https://github.com/jacobemanuel/leks)**: a local engineering knowledge system shared by an engineering team and its AI agents, with a retrieval benchmark and an MCP server
-- **[Probabilistic building energy prediction](https://github.com/jacobemanuel/building-energy-gpr)**: Gaussian-process regression with uncertainty diagnostics and split-conformal checks, tests and CI
-- **[AI Study Buddy](https://github.com/jacobemanuel/ai-study-buddy)**: a full-stack platform for a 30-participant study comparing text and embodied-avatar AI tutors
+- **[Gaussian Splatting on Apple Vision Pro](https://github.com/jacobemanuel/gaussian-splatting-vision-pro)** · Research, TUM<br>
+  A test bench that measures how true a splat model looks and what it costs the headset to draw. 470 trained versions of five objects and 195 timed runs on the device, with every number rebuilt from the raw records.
+- **[receptionOS Visualizer](https://github.com/jacobemanuel/receptionos-visualizer-portfolio)** · Industry, client project<br>
+  A patient's face, jaw and 3D X-ray scans lined up in the room on Apple Vision Pro and measured in millimetres by hand. I took it from an early proof of concept to the client release.
+- **[Automotive XR](https://github.com/jacobemanuel/automotive-spatial-visualization-portfolio)** · Industry, in-house application<br>
+  Full-size vehicle reviews on Apple Vision Pro, continued from an earlier research prototype. My parts include stereo mirrors, glass and HUD drawn in the right order, HUD clipping per pixel and a 20,000-line C# codebase moved to Unity 6.3 and PolySpatial 3.
+- **[Automotive content pipeline](https://github.com/jacobemanuel/automotive-content-pipeline-portfolio)** · Industry<br>
+  Exact, heavy engineering CAD turned into 3D that looks right up close and still runs on a headset. 138,254 collider triangles became 30 fitted shapes.
+- **[LEKS](https://github.com/jacobemanuel/leks)** · Tooling, version 2.0<br>
+  What a long engineering project knows, in one local folder that stays consistent and recoverable. The team reads it in Obsidian and its AI coding agents get short answers with sources.
+- **[Probabilistic building energy prediction](https://github.com/jacobemanuel/building-energy-gpr)** · Research, TUM<br>
+  Ridge regression, a 300-tree random forest and exact Gaussian-process regression on the same held-out splits. The forest won on heating and the Gaussian process on cooling, with its own uncertainty, so I kept the trade-off visible.
+- **[AI Study Buddy](https://github.com/jacobemanuel/ai-study-buddy)** · Research, TUM<br>
+  A full study platform built around one question. Does a speaking avatar tutor teach differently than a text chat? I was technical and product lead of a five-person student team.
 
-**Tools:** Python, C#, Swift · PyTorch, NumPy, scikit-learn · Unity, PolySpatial, RealityKit, SwiftUI, Metal · Blender, Pixyz · Google Cloud
+**Tools:** Python, C#, Swift · PyTorch, NumPy, scikit-learn · Unity, PolySpatial, RealityKit, SwiftUI, Metal · Blender, Unity Asset Transformer (formerly Pixyz) · Google Cloud
 
-[LinkedIn](https://www.linkedin.com/in/majewski-studio)
+I study Management & Technology at TUM with Computer Engineering as my technology specialization. I'm also Head of Strategic Development at [TUM-XR](https://tum-xr.com/), the university's student XR initiative, and a Senior Associate at [XR Association Munich e.V.](https://www.linkedin.com/company/xrmunich/)
