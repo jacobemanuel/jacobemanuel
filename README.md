@@ -21,6 +21,13 @@ I'm a software engineer in Munich with a background in Management & Technology. 
 - **[AI Study Buddy](https://github.com/jacobemanuel/ai-study-buddy)** · Research, TUM<br>
   Platform for a user study that compares an AI text tutor with a speaking avatar tutor. I was technical and product lead in a five-person student team and built the platform end to end.
 
-**Tools:** Python, C#, Swift · PyTorch, NumPy, scikit-learn · Unity, PolySpatial, RealityKit, SwiftUI, Metal · Blender, Unity Asset Transformer (formerly Pixyz) · Google Cloud
+## Tools
+
+- **Languages:** Python, C#, Swift
+- **XR and 3D:** Unity, RealityKit, PolySpatial, SwiftUI, Metal, Blender, Unity Asset Transformer (Pixyz)
+- **Machine learning:** PyTorch, NumPy, scikit-learn
+- **Cloud:** Google Cloud
+
+## About
 
 I study Management & Technology at TUM with Computer Engineering as my technology specialization. Before that I did an M.Sc. in Management at Gdańsk University of Technology and got the [faculty's award for the best master's thesis of 2024](https://zie.pg.edu.pl/aktualnosci/2025-03/za-nami-uroczyste-posiedzenie-senatu-pg-z-okazji-promocji-akademickich). I'm also Head of Strategic Development at [TUM-XR](https://tum-xr.com/), the university's student XR initiative, and a Senior Associate at [XR Association Munich e.V.](https://www.linkedin.com/company/xrmunich/)
