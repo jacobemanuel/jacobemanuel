@@ -1,25 +1,25 @@
 # Jakub Majewski
 
-I'm a software engineer in Munich with a background in Management & Technology. I like the whole way from an idea to the thing people actually use so I build it end to end. XR apps, real-time 3D from engineering CAD, machine learning that knows how sure it is and knowledge tools a team shares with its AI agents. At TUM I research Gaussian Splatting. It turns photos into 3D scenes that render in real time.
+I'm a software engineer in Munich with a background in Management & Technology. I build software end to end: XR apps for Apple Vision Pro, real-time 3D from engineering CAD, machine learning with uncertainty estimates and knowledge tools for teams that work with AI agents. At TUM I research Gaussian Splatting for real-time 3D on headsets.
 
 **[majewski.studio](https://majewski.studio)** · [LinkedIn](https://www.linkedin.com/in/majewski-studio) · [contact@majewski.studio](mailto:contact@majewski.studio)
 
 ## Selected work
 
 - **[Gaussian Splatting on Apple Vision Pro](https://github.com/jacobemanuel/gaussian-splatting-vision-pro)** · Research, TUM<br>
-  A test bench that measures how true a splat model looks and what it costs the headset to draw it. 470 trained versions of five objects and 195 timed runs on the device and every number rebuilds from the raw records.
+  Test bench that measures how close a trained Gaussian splat model stays to the original 3D object and what it costs to render on Apple Vision Pro. 470 trained versions of five objects and 195 measurement runs on the headset. Every number can be rebuilt from the raw records.
 - **[receptionOS Visualizer](https://github.com/jacobemanuel/receptionos-visualizer-portfolio)** · Industry, client project<br>
-  A patient's face, jaw and 3D X-ray scans lined up in the room on Apple Vision Pro and measured in millimetres by hand. I took it from an early proof of concept to the client release.
+  Apple Vision Pro app that shows a patient's face scan, jaw scans and CBCT aligned in 3D, with hand-placed measurements in millimetres. I took it from an early proof of concept to the client release.
 - **[Automotive XR](https://github.com/jacobemanuel/automotive-spatial-visualization-portfolio)** · Industry, in-house application<br>
-  Full-size vehicle reviews on Apple Vision Pro. I picked it up from an earlier research prototype. My parts are stereo mirrors, glass and HUD drawn in the right order, HUD clipping per pixel and moving a 20,000-line C# codebase to Unity 6.3 and PolySpatial 3.
+  Apple Vision Pro app for full-scale vehicle design reviews. I continued it from an earlier research prototype and work on rendering, interaction and release engineering: stereo mirrors, the draw order for glass and HUD, per-pixel HUD clipping and hand-tracked controls.
 - **[Automotive content pipeline](https://github.com/jacobemanuel/automotive-content-pipeline-portfolio)** · Industry<br>
-  Exact and heavy engineering CAD turned into 3D that looks right up close and still runs on a headset. 138,254 collider triangles turned into 30 fitted shapes.
+  Geometry processing and tooling that turn engineering CAD into real-time 3D for the headset. 138,254 collider triangles were replaced by 30 fitted collision shapes.
 - **[LEKS](https://github.com/jacobemanuel/leks)** · Tooling, version 2.0<br>
-  Everything a long engineering project knows in one local folder that stays consistent and recoverable. A team reads it in Obsidian and its AI coding agents get short answers with sources.
+  Local knowledge system for a long-running engineering project. Markdown pages and their source files in one folder, read by people in Obsidian and queried by AI coding agents over MCP.
 - **[Probabilistic building energy prediction](https://github.com/jacobemanuel/building-energy-gpr)** · Course project, TUM<br>
-  Ridge regression, a 300-tree random forest and exact Gaussian-process regression, all on the same held-out splits. The forest won on heating and the Gaussian process on cooling where it also gives its own uncertainty, so I kept the trade-off visible.
+  Heating and cooling load prediction for building designs with an uncertainty estimate for each prediction. Ridge regression, a 300-tree random forest and exact Gaussian-process regression on the same held-out splits.
 - **[AI Study Buddy](https://github.com/jacobemanuel/ai-study-buddy)** · Research, TUM<br>
-  A full study platform built around one question. Does a speaking avatar tutor teach differently than a text chat? I was technical and product lead of a five-person student team.
+  Platform for a user study that compares an AI text tutor with a speaking avatar tutor. I was technical and product lead in a five-person student team and built the platform end to end.
 
 **Tools:** Python, C#, Swift · PyTorch, NumPy, scikit-learn · Unity, PolySpatial, RealityKit, SwiftUI, Metal · Blender, Unity Asset Transformer (formerly Pixyz) · Google Cloud
 
