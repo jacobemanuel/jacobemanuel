@@ -20,6 +20,8 @@ I'm a software engineer in Munich with a background in Management & Technology. 
   Heating and cooling load prediction for building designs with an uncertainty estimate for each prediction. I compared three standard models on the same held-out splits. One of them, a Gaussian process, explained 97.6% of the variance in cooling load, and its 90% ranges held 91.6% of the true values, close to the promised 90%.
 - **[AI Study Buddy](https://github.com/jacobemanuel/ai-study-buddy)** · Research, TUM<br>
   Platform for a user study that compares an AI text tutor with a speaking avatar tutor. I was technical and product lead in a five-person student team and built the platform end to end.
+- **[XR safety training for industry](https://github.com/jacobemanuel/xr-safety-training-framework)** · Master's thesis, Gdańsk University of Technology<br>
+  Framework for designing VR safety training for industrial plants, grown out of my work on the Linde Virtual Academy at Linde Engineering. At ACHEMA 2024 in Frankfurt I presented one of the trainings to Saudi Arabia's Deputy Minister of Industry and Mineral Resources. It won the faculty's award for the best master's thesis of 2024.
 
 ## Tools
 
