@@ -15,12 +15,12 @@ I'm a software engineer in Munich with a background in Management & Technology. 
 - **[Automotive content pipeline](https://github.com/jacobemanuel/automotive-content-pipeline-portfolio)** · Industry<br>
   Workflow and tools that take car interiors from engineering CAD to the headset. Seat trim is fitted from reference photos and the measured geometry, in millimetres, so quilting and stitching keep their real size even though the seats lose about 70% of their triangles.
 - **[LEKS](https://github.com/jacobemanuel/leks)** · Tooling, version 2.0<br>
-  Local knowledge system for a long-running engineering project, read by people in Obsidian and queried by AI coding agents over MCP. In a scaling test with 10,027 pages, 91 of them real, a search takes 68 ms.
+  Local knowledge system for a long-running engineering project, read by people in Obsidian and queried by AI coding agents over MCP. In a scaling test with 10,027 pages, 91 of them real, 95% of searches finish within 68 ms.
 - **[Probabilistic building energy prediction](https://github.com/jacobemanuel/building-energy-gpr)** · Course project, TUM<br>
-  Heating and cooling load prediction for building designs with an uncertainty estimate for each prediction. I compared three standard models on the same held-out splits. One of them, a Gaussian process, explained 97.6% of the variance in cooling load, and its 90% ranges held 91.6% of the true values, close to the promised 90%.
-- **[AI Study Buddy](https://github.com/jacobemanuel/ai-study-buddy)** · Research, TUM<br>
+  Heating and cooling load prediction for building designs, with a checked uncertainty range for each prediction. I compared three standard models on the same held-out splits and no single model won: the random forest was best on heating load, the Gaussian process on cooling load, with 97.6% of the variance explained. Its 90% ranges caught 91.6% of the true cooling loads, close to target, and were too cautious on heating, at 96.1%.
+- **[AI Study Buddy](https://github.com/jacobemanuel/ai-study-buddy)** · Course project, TUM<br>
   Platform for a user study that compares an AI text tutor with a speaking avatar tutor. I was technical and product lead in a five-person student team and built the platform end to end.
-- **[XR safety training for industry](https://github.com/jacobemanuel/xr-safety-training-framework)** · Master's thesis, Gdańsk University of Technology<br>
+- **[XR safety training for industry](https://github.com/jacobemanuel/xr-safety-training-framework)** · Research, Linde Engineering and Gdańsk University of Technology<br>
   Framework for designing VR safety training for industrial plants, grown out of my work on the Linde Virtual Academy at Linde Engineering. At ACHEMA 2024 in Frankfurt I presented one of the trainings to Saudi Arabia's Deputy Minister of Industry and Mineral Resources. It won the faculty's award for the best master's thesis of 2024.
 
 ## Tools
