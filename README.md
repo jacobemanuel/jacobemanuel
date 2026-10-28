@@ -1,6 +1,6 @@
 # Jakub Majewski
 
-I'm a software engineer in Munich with a background in Management & Technology. I build software end to end: XR apps, real-time 3D from engineering CAD, machine learning, and knowledge tools for teams that use AI agents. At TUM I research Gaussian Splatting for real-time 3D on standalone headsets, together with [Qing Cheng](https://cvg.cit.tum.de/members/cheq) and supervised at [Prof. Daniel Cremers' Chair of Computer Vision and Artificial Intelligence](https://cvg.cit.tum.de/members/cremers).
+I'm a software engineer in Munich with a background in Management & Technology. I build software end to end: XR apps for Meta Quest and visionOS, real-time 3D from engineering CAD, machine learning, and knowledge tools for teams that use AI agents. At TUM I research Gaussian Splatting for real-time 3D on standalone headsets, together with [Qing Cheng](https://cvg.cit.tum.de/members/cheq) and supervised at [Prof. Daniel Cremers' Chair of Computer Vision and Artificial Intelligence](https://cvg.cit.tum.de/members/cremers).
 
 **[majewski.studio](https://majewski.studio)** · [LinkedIn](https://www.linkedin.com/in/majewski-studio) · [contact@majewski.studio](mailto:contact@majewski.studio)
 
