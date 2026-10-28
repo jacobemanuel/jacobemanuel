@@ -28,7 +28,7 @@ I'm a software engineer in Munich with a background in Management & Technology. 
 ## Tools
 
 - **Languages:** Python, C#, Swift
-- **XR and 3D:** Unity, RealityKit, PolySpatial, SwiftUI, Metal, Blender, Unity Asset Transformer (Pixyz)
+- **XR and 3D:** Unity, OpenXR, Meta Quest, RealityKit, PolySpatial, SwiftUI, Metal, Blender, Unity Asset Transformer (Pixyz)
 - **Machine learning:** PyTorch, NumPy, scikit-learn
 - **GPU and cloud:** OpenSplat (CUDA, LibTorch), Google Cloud
 
